@@ -15,3 +15,6 @@ I'm open to collaborations and new opportunities! You can reach out to me via [e
 Thank you for visiting my portfolio. Feel free to explore my projects, and don't hesitate to contact me for any inquiries or collaboration.
 
 Thanks!
+
+# My estadistics 💹
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxcodev)](https://github.com/anuraghazra/github-readme-stats)
