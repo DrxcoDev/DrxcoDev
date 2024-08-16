@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio. I'm Drxco, a passionate software developer with 
 ![](https://komarev.com/ghpvc/?username=drxcodev)
 
 # My estadistics 💹
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxcodev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drxcodev&show_progress=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drxcodev&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxcodev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
