@@ -10,6 +10,7 @@ Welcome to my GitHub portfolio. I'm Drxco, a passionate software developer with 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![](https://komarev.com/ghpvc/?username=drxcodev)
+![](https://img.shields.io/badge/Packages%20created-2-%3CCOLOR%3E)
 
 # My estadistics 💹
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drxcodev&show_progress=true&theme=radical)
