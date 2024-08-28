@@ -17,3 +17,4 @@ Welcome to my GitHub portfolio. I'm Drxco, a passionate software developer with 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drxcodev&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxcodev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=drxcodev)](https://github.com/ryo-ma/github-profile-trophy)
